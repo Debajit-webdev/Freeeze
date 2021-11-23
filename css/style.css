@@ -807,7 +807,7 @@ form input, form textarea{
     /* index */
 
     .big-img {
-        height: 50vh;
+        height: 55vh;
     }
 
     .twist-txt{
@@ -888,7 +888,7 @@ form input, form textarea{
     /* index */
 
     .big-img {
-        height: 40vh;
+        height: 50vh;
     }
 
     /* product */
@@ -917,7 +917,7 @@ form input, form textarea{
     /* index */
 
     .big-img {
-        height: 30vh;
+        height: 45vh;
     }
 
     /* blog */
@@ -952,7 +952,7 @@ form input, form textarea{
     /* index */
 
     .big-img {
-        height: 20vh;
+        height: 40vh;
     }
 
     /* blog */
@@ -971,12 +971,6 @@ form input, form textarea{
         width: 25%;
     }
     
-    /* contact */
-
-    .send {
-        width: 25%;
-    }
-    
     .social{
         width: 60%;
     }
@@ -988,7 +982,9 @@ form input, form textarea{
     }
     
     /* index */
-    
+    .big-img {
+        height: 40vh;
+    }
     .icon-box{
         width: 90%;
     }
@@ -1020,6 +1016,12 @@ form input, form textarea{
         max-width: 290px;
     }
 
+    /* index */
+
+    .big-img {
+        height: 40vh;
+    }
+
     /* contact */
 
     .loc-img img{
@@ -1038,6 +1040,12 @@ form input, form textarea{
     
     .inner{
         max-width: 280px;
+    }
+
+    /* index */
+
+    .big-img {
+        height: 35vh;
     }
 
     .social{
