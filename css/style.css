@@ -971,6 +971,12 @@ form input, form textarea{
         width: 25%;
     }
     
+    /* contact */
+
+    .send {
+        width: 25%;
+    }
+    
     .social{
         width: 60%;
     }
